@@ -1,0 +1,15 @@
+Learning PHP 
+why? - simple server side language, wordpress use it 
+
+
+https://www.codecademy.com/learn/php
+
+
+
+
+http://www.learn-php.org/
+interactive - tutorial 
+
+
+https://www.sololearn.com/Course/PHP/
+47 modules - hefty
